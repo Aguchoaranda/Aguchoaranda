@@ -5,7 +5,9 @@ Soy [Programador web full stack]. Me encanta crear soluciones innovadoras y cont
 ## 🌟 Acerca de mí
 
 💻 Me apasiona la tecnología y la programación.
+
 🎓 Estudió programación en SoyHenry .
+
 🚀 Estoy buscando oportunidades para crecer y colaborar en proyectos tecnológicos emocionantes.
 
 ## 🛠️ Tecnologías y Herramientas
