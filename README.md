@@ -27,4 +27,4 @@ Soy [Programador web full stack]. Me encanta crear soluciones innovadoras y cont
 ## 🌐 Encuéntrame en
 
 - [LinkedIn]_( https://www.linkedin.com/in/augusto-aranda-602457267/)
-- [Gmail](Augustoaranda22@gmail.com)
+- [Gmail](augustoaranda22@gmail.com)
