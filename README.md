@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Augusto Aranda] 
 
-<!--
-**Aguchoaranda/Aguchoaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy [Programador web full stack]. Me encanta crear soluciones innovadoras y contribuir a proyectos interesantes. ¡Bienvenido a mi perfil!
 
-Here are some ideas to get you started:
+## 🌟 Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Me apasiona la tecnología y la programación.
+🎓 Estudió programación en SoyHenry .
+🚀 Estoy buscando oportunidades para crecer y colaborar en proyectos tecnológicos emocionantes.
+
+## 🛠️ Tecnologías y Herramientas
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+## 🚀 Proyectos Destacados
+
+1. **[active](https://github.com/Active04-star)**: Breve descripción del proyecto.
+2. **[e-commerce](https://github.com/Aguchoaranda/front-ecommerce)**: Breve descripción del proyecto.
+
+
+
+## 🌐 Encuéntrame en
+
+- [LinkedIn]_( https://www.linkedin.com/in/augusto-aranda-602457267/)
+- [Gmail](Augustoaranda22@gmail.com)
