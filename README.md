@@ -21,8 +21,8 @@ Soy [Programador web full stack]. Me encanta crear soluciones innovadoras y cont
 
 ## 🚀 Proyectos Destacados
 
-1. **[active](https://github.com/Active04-star)**: Breve descripción del proyecto.
-2. **[e-commerce](https://github.com/Aguchoaranda/front-ecommerce)**: Breve descripción del proyecto.
+1. **[active](https://github.com/Active04-star)**: Los dueños de centros deportivos pueden registrar sus instalaciones, mientas que los usuarios pueden reservar canchas de forma sencilla
+2. **[e-commerce](https://github.com/Aguchoaranda/front-ecommerce)**: Pequeño proyecto de e-commerce de Apple.
 
 
 
